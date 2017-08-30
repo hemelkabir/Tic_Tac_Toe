@@ -1,0 +1,56 @@
+1:Dick Van Dyke played in "Mary Poppins”:True
+2:Is there a pencil type named Ticonderoga No. 2 pencil?:True
+3:Is Olive Garden a French Restaurant?:False
+4:Coca-Cola has always been brown:True
+5:Are plastic plants made of plastic?:True
+6:Pokemon is partially owned by Sega.:False
+7:Is sour cream the only food that doesn't spoil?:False
+8:Lachanophobia is the fear of heights.:False
+9:The Indian Ocean is the third largest ocean in the world.:True
+10:ALABAMA is the capital is Birmingham.:False
+11:The longest bone in the human body is the femur.:True
+12:'Ferris Bueller's Day Off' and 'The Breakfast Club' were filmed at the same high school.:False
+13:An ostrich's eye is bigger than its brain.:True
+14:The sum of all the numbers on a roulette wheel is 777.:False
+15:Jupiter was first discovered by Galileo Galilei.:False
+16:Uruguay has a greater population than Paraguay:False
+17:Memphis is the state capital of Tennessee.:False
+18:The Pittsburgh Penguins made Mister Rogers an honorary captain in 1991.:True
+19:The 'Q' in Q-tips stands for 'quicker’.:False
+20:Bubble gum contains rubber.:True
+21:Earth's atmosphere is mostly Nitrogen.:True
+22:Arsenic is an element.:True
+23:Mercury is the hottest planet in the Solar System.:False
+24:Camels have three sets of eyelids.:True
+25:A duck's quack doesn't echo.:False
+26:The creator of SpongeBob SquarePants used to teach quantum physics.:False
+27:Taco Bell is named after its founder, Glen Bell.:True
+28:Cat's urine glows under a blacklight.:True
+29:Ammonia is a compound of Nitrogen and Hydrogen.:True
+30:Jim Carrey’s chipped tooth in 'Dumb & Dumber' is real.:True
+31:TEXAS The Battle of the Alamo took place in Corpus Christi, TX, in 1836:False
+32:Silver has a higher melting point than Gold.:False
+33:In binary, 101 + 101 = 1010.:True
+34:A jellyfish is 95 percent water.:True
+35:In 'Men in Black' the 'MiB' originally stood for 'Men in Blue' but Will Smith had it changed stating that he looked better in a black suit.:False
+36:Michael Keaton's real name is Michael Douglas.:True
+37:A lightyear is a unit of distance:True
+38:NEW YORK is the only state whose capital city shares its name.:False
+39:NEW JERSEY, As of 2016, it has the highest population density of all the states.:True
+40:All of Bill Murray's lines in 'Caddyshack' were improvised.:True
+41:The actor who played the father on Family Matters also voiced Shredder in the '80s-'90s TMNT cartoon.:False
+42:No chemical symbols begin with ‘V’.:False
+43:sin²θ + cos²θ = 1.:True
+44:Centipedes are considered insects.:False
+45:Iowa has a greater area than Greece.:True
+46:Russia is the world's largest oil producer.:True
+47:The Sahara Desert has a greater area than USA.:False
+48:An alpha particle is identical to a helium nucleus.:True
+49:Earth is closest to the Sun in January.:True
+50:Humans share 90% of their DNA with bananas.:False
+51:Adults can’t breathe and swallow at the same time.:True
+52:Astronauts shrink while they’re in space.:False
+53:An octopus has three hearts.:False
+53:If you could fold a piece of paper 42 times, it would reach to the moon.:True
+54:Smoking can make your nipples fall off.:False
+55:There are more stars in the universe than there are grains of sand on all the world’s beaches.:True

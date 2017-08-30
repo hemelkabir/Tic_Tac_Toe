@@ -1,0 +1,7 @@
+hemel,1234,0
+jimmy,1234,0
+jon,1234,0
+aniqa,Me,0
+me,hi,0
+hemel,me,0
+bill,1234,0
